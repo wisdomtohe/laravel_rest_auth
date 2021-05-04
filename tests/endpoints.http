@@ -32,3 +32,8 @@ Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvX
     "title":"check",
     "details":"ok"
 }
+
+
+###
+
+GET url HTTP/1.1
